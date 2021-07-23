@@ -28,9 +28,9 @@
       "plugin:prettier/recommended"
     ]
   },
-  "prettier":{
+  "prettier": {
     "singleQuote": true,
-    "parser":"flow"
+    "parser": "flow"
   },
   "browserslist": {
     "production": [
